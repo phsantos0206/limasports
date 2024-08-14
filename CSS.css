@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    color: white;
+    background-color: black;
+
+}
+
+h1{
+    text-align: center;
+    color: gold;
+}
+
+p{
+    font-size: 19px;
+    text-align: left;
+}
